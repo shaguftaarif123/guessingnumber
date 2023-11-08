@@ -52,3 +52,6 @@ async function guessNumber() {
     console.log(`Worng guess. Your score is ${score}. Better luck nexttime.`);
   }
 }
+
+
+
